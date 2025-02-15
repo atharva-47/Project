@@ -1,5 +1,5 @@
 Final Year Project: GrandLine Laptops (Ecommerce Website) 
-Link
+
 Feb '24 — Mar '24
 Developed an e-commerce platform with PHP, JavaScript, HTML, CSS, and SQL, boosting user engagement by 30% with an intuitive UI.
 Enhanced password security with MD5 encryption, cutting password breaches by 40%.
